@@ -31,6 +31,5 @@ langchain_neo4j==0.4.0
 matplotlib==3.9.2
 seaborn==0.13.2
 langchain_community==0.3.21
-graphrag==2.1.0
 langgraph-checkpoint-sqlite==2.0.6
 ipython==9.1.0
